@@ -18,6 +18,7 @@
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [2418-sort-the-people](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/2418-sort-the-people) |
 ## Sorting
@@ -42,6 +43,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
 | ------- |
