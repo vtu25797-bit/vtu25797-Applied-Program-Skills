@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0704-binary-search) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2418-sort-the-people](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/2418-sort-the-people) |
 ## Hash Table
@@ -26,4 +27,8 @@
 |  |
 | ------- |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
