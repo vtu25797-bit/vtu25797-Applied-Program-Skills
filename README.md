@@ -9,6 +9,7 @@
 | [0217-contains-duplicate](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0867-transpose-matrix) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2418-sort-the-people](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/2418-sort-the-people) |
 ## Hash Table
@@ -61,4 +62,12 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/1704-determine-if-string-halves-are-alike) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
