@@ -20,6 +20,7 @@
 | ------- |
 | [0344-reverse-string](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0387-first-unique-character-in-a-string) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2418-sort-the-people](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/2418-sort-the-people) |
 ## Sorting
 |  |
@@ -56,4 +57,5 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0387-first-unique-character-in-a-string) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/1704-determine-if-string-halves-are-alike) |
 <!---LeetCode Topics End-->
