@@ -6,6 +6,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0704-binary-search) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -13,6 +14,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [2418-sort-the-people](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/2418-sort-the-people) |
 ## String
@@ -26,6 +28,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0217-contains-duplicate) |
 | [2418-sort-the-people](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/2418-sort-the-people) |
 ## Math
 |  |
