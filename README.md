@@ -10,6 +10,7 @@
 | [0283-move-zeroes](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0867-transpose-matrix) |
+| [0977-squares-of-a-sorted-array](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0977-squares-of-a-sorted-array) |
 | [1314-matrix-block-sum](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/1314-matrix-block-sum) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2418-sort-the-people](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/2418-sort-the-people) |
@@ -33,6 +34,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0217-contains-duplicate) |
+| [0977-squares-of-a-sorted-array](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0977-squares-of-a-sorted-array) |
 | [2418-sort-the-people](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/2418-sort-the-people) |
 ## Math
 |  |
@@ -57,6 +59,7 @@
 | [0283-move-zeroes](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
