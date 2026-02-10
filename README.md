@@ -51,6 +51,7 @@
 | [0075-sort-colors](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,4 +74,8 @@
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0867-transpose-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
