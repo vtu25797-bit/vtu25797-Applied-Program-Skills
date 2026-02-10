@@ -15,6 +15,7 @@
 | [0867-transpose-matrix](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0977-squares-of-a-sorted-array) |
 | [1314-matrix-block-sum](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/1314-matrix-block-sum) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2418-sort-the-people](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/2418-sort-the-people) |
 ## Hash Table
@@ -105,6 +106,7 @@
 | [0496-next-greater-element-i](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0901-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Recursion
 |  |
 | ------- |
@@ -134,6 +136,7 @@
 | [0496-next-greater-element-i](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0901-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Design
 |  |
 | ------- |
