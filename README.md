@@ -9,6 +9,7 @@
 | [0217-contains-duplicate](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0977-squares-of-a-sorted-array) |
@@ -23,6 +24,7 @@
 | [0217-contains-duplicate](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0496-next-greater-element-i) |
 | [2418-sort-the-people](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/2418-sort-the-people) |
 ## String
 |  |
@@ -99,6 +101,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0496-next-greater-element-i) |
 ## Recursion
 |  |
 | ------- |
@@ -122,4 +125,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0219-contains-duplicate-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
