@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -76,6 +77,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0142-linked-list-cycle-ii) |
@@ -88,6 +90,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0918-maximum-sum-circular-subarray) |
