@@ -99,6 +99,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0918-maximum-sum-circular-subarray) |
+| [0933-number-of-recent-calls](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0933-number-of-recent-calls) |
 ## Counting
 |  |
 | ------- |
@@ -177,10 +178,12 @@
 | ------- |
 | [0155-min-stack](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Queue
 |  |
 | ------- |
