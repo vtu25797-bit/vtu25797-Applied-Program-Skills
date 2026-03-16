@@ -104,6 +104,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0387-first-unique-character-in-a-string) |
+| [1603-design-parking-system](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/1603-design-parking-system) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Matrix
 |  |
@@ -116,6 +117,7 @@
 | [0735-asteroid-collision](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0946-validate-stack-sequences) |
+| [1603-design-parking-system](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/1603-design-parking-system) |
 ## Linked List
 |  |
 | ------- |
@@ -179,6 +181,7 @@
 | [0155-min-stack](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0933-number-of-recent-calls) |
+| [1603-design-parking-system](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/1603-design-parking-system) |
 ## Data Stream
 |  |
 | ------- |
