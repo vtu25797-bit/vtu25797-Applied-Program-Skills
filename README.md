@@ -200,4 +200,20 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0459-repeated-substring-pattern) |
 | [1408-string-matching-in-an-array](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/1408-string-matching-in-an-array) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/vtu25797-bit/vtu25797-Applied-Program-Skills/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
